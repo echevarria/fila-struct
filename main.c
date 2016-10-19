@@ -159,17 +159,6 @@ int main(int argc, char** argv) {
         }
         
     } while (opcao != 0);
-        
-
-//    imprimiFila(&f1);
-//    
-//    scanf("%d", &elemento);
-//    inserir(&f1, elemento);
-//    
-//    scanf("%d", &elemento);
-//    inserir(&f1, elemento);
-//
-//    imprimiFila(&f1);
 
     return (EXIT_SUCCESS);
 }
